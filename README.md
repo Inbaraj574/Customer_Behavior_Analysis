@@ -31,4 +31,4 @@ analytical querying in MySQL, and an interactive dashboard in Power BI.
 - `shopping_behavior_Dataset.csv` — source data (Kaggle)
 
 ## Dashboard Preview
-![Dashboard](Screenshot 2026-07-12 213823.png)
+![Dashboard](Customer_behavior_Analysis Dashboard.png)
